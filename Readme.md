@@ -191,7 +191,3 @@ Waiting two seconds ensures the daemon has finished before applying the MTU, mak
 # License
 
 This project is released under the MIT License.
-
-```
-
-```
